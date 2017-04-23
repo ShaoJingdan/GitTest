@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"改动 3");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
